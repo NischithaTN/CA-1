@@ -1,1 +1,3 @@
 To install GIT: to download git search "GIT bash" in browser
+basic commands 
+ls: shows the list of files in device
