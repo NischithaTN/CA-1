@@ -1,0 +1,1 @@
+To install GIT: to download git search "GIT bash" in browser
