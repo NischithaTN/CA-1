@@ -1,3 +1,4 @@
 To install GIT: to download git search "GIT bash" in browser
 basic commands 
 ls: shows the list of files in device
+mkdir: using this command we can create new file
