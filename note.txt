@@ -1,1 +1,0 @@
-To install GIT : search "git bash" in browser
